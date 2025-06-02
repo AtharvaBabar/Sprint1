@@ -13,11 +13,6 @@ A robust task management application built with Django, MySQL, HTML, CSS, and Ja
 - User dashboard with task overview
 - Task filtering and search capabilities
 
-## Screenshots
-
-![Task Manager Home Page](C:\Users\DELL\Desktop\dashboard.png)
-![Dashboard View](ScreeenShots/dashboard.png)
-![Task Management](ScreeenShots/tasks.png)
 
 ## Installation
 
