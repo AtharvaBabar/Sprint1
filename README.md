@@ -15,7 +15,7 @@ A robust task management application built with Django, MySQL, HTML, CSS, and Ja
 
 ## Screenshots
 
-![Task Manager Home Page](ScreeenShots/home.png)
+![Task Manager Home Page](C:\Users\DELL\Desktop\dashboard.png)
 ![Dashboard View](ScreeenShots/dashboard.png)
 ![Task Management](ScreeenShots/tasks.png)
 
